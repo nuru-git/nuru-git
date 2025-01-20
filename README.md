@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nurlibek
+# 👋 Hi, I’m Nurlibek
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning C/C++
-- 📫 How to reach me [GitHub](https://github.com/nuru-git) [Telegram](https://t.me/Nurildin) [Email](mailto:nuru.git@gmail.com) 
+- 🌱 I'm studing [school 21](https://21-school.uz/ru/)
+- 📫 How to reach me [Telegram](https://t.me/Nurildin) [Email](mailto:nuru.git@gmail.com) 
 
 <!---
 nuru-git/nuru-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
